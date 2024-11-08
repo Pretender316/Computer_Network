@@ -5,6 +5,9 @@
 
 *只会更新以下5个部分的内容。参考教材为谢希仁第八版《计算机网络》。*
 
+**非常感谢Serendipity_筱楠的CSDN博客提供的计算机网络的题型大全**
+[链接]([https://markdown.com.cn](https://blog.csdn.net/gl620321?type=blog))
+
 ## 概述  
 
 
